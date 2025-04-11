@@ -1,0 +1,4 @@
+id_produto,nome_produto,preco_custo,margem_lucro,porcentagem_ifood,preco_venda,valor_ifood,valor_entrega,id_combo,nome_combo,preco_combo
+1,"Sanduíche de Frango",10.00,30.00,15.00,13.000000,1.950000,5.00,1,"Combo Frango + Suco",22.00
+2,"Lanche de Carne",12.00,30.00,20.00,15.600000,3.120000,5.00,NULL,NULL,NULL
+3,"Suco Natural",4.00,30.00,10.00,5.200000,0.520000,5.00,1,"Combo Frango + Suco",22.00
